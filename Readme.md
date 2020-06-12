@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Денис Спицын](https://up.htmlacademy.ru/htmlcss/26/user/842399).
-* Наставник: неизвестно (https://up.htmlacademy.ru/htmlcss/26/user/842399).
+* Наставник: Мастер (https://up.htmlacademy.ru/htmlcss/26/user/842399).
 
 ---
 
